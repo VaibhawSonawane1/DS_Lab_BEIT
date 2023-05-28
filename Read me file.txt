@@ -1,0 +1,50 @@
+Assignment 1:
+Terminal 1:
+
+javac *.java
+rmic AddServerImpl
+Terminal 2:
+
+rmiregistry
+Terminal 3:
+
+java AddServer
+Terminal 4:
+
+java AddClient 127.0.0.1 5 8
+
+..........................................................................................
+=============================================
+Assignmnet 4:
+Terminal :
+
+javac BerkeleyClockSync.java
+java BerkeleyClockSync
+
+
+
+
+.............................................................................................
+==============================================
+
+Assignment 5:
+Terminal
+
+javac Tring.java
+java Tring
+
+
+..........................................................................................
+=============================================
+
+Assignmnet 6:
+Terminal
+
+javac Bully.java
+java Bully
+javac Ring.java
+java Ring
+
+
+
+
